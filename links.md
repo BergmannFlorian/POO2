@@ -1,0 +1,3 @@
+- https://www.theavocoder.com/algorithms-data-structures
+- https://medium.com/basecs
+- https://sourcemaking.com/design_patterns
